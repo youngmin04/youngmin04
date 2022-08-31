@@ -35,9 +35,9 @@
 </div>
 
 ## ✨GitHub State
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=youngmin04&show_icons=true&theme=radical)<br>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=youngmin04&show_icons=true&theme=radical&count_private=true)<br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=youngmin04&layout=compact&&count_private=true)](https://github.com/youngmin04/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=youngmin04&layout=compact)](https://github.com/youngmin04/github-readme-stats)
 
 ![Profile views](https://gpvc.arturio.dev/youngmin04)
 <!--
