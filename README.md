@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&text=Game%20Developer%20with%20Unity&fontSize=50&animation=fadeIn&fontAlignY=38&desc=YoungMin%20Jung&descAlignY=57&descAlign=79)
 
-## Hello, my name is Youngmin and <br>I am a student who dreams of becoming a game developer.
+### Hello, my name is Youngmin and <br>I am a student who dreams of becoming a game developer.<br>
 
 ## ✨Introduce
 - 🔭 I’m currently working on Unity Game Project
@@ -35,11 +35,11 @@
 </div>
 
 ## ✨GitHub State
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=youngmin04&show_icons=true&theme=radical)
-<br>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=youngmin04&show_icons=true&theme=radical)<br>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=youngmin04&layout=compact)](https://github.com/youngmin04/github-readme-stats)
 
-
+![Profile views](https://gpvc.arturio.dev/youngmin04)
 <!--
 **youngmin04/youngmin04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
