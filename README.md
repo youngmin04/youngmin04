@@ -40,6 +40,11 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=youngmin04&layout=compact)](https://github.com/youngmin04/github-readme-stats)
 
 ![Profile views](https://gpvc.arturio.dev/youngmin04)
+
+----
+
+<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+
 <!--
 **youngmin04/youngmin04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
