@@ -9,7 +9,7 @@
 ## ✨Skill
 #### Often Use
 <div align>
-<img alt="Csharp" src="https://img.shields.io/badge/CSharp-239120.svg?&style=for-the-badge&logo=Csharp&logoColor=white"/>
+<img alt="C#" src="https://img.shields.io/badge/CSharp-239120.svg?&style=for-the-badge&logo=Csharp&logoColor=white"/>
 <img alt="Unity" src="https://img.shields.io/badge/Unity-FFFFFF.svg?&style=for-the-badge&logo=Unity&logoColor=black"/>
 <img alt="Visual Studio" src="https://img.shields.io/badge/Visual Studio-5C2D91.svg?&style=for-the-badge&logo=Visual Studio&logoColor=whtie"/>
 </>
