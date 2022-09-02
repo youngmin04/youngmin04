@@ -2,6 +2,8 @@
 
 ### Hello, my name is Youngmin and <br>I am a student who dreams of becoming a game developer.<br>
 
+#### Address : yeongminj219@gmail.com
+
 ## ✨Introduce
 - 🔭 I’m currently working on Unity Game Project
 - 📘 I'm learning C# and Unity right now.
